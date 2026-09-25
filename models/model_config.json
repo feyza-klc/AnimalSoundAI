@@ -1,0 +1,17 @@
+{
+    "confidence_threshold": 0.35,
+    "classes": [
+        "cat",
+        "cow",
+        "dog",
+        "frog",
+        "sheep"
+    ],
+    "sample_rate": 22050,
+    "duration_seconds": 5,
+    "feature_count": 84,
+    "training_noise_snr_db": [
+        20,
+        10
+    ]
+}
